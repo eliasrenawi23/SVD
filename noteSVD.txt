@@ -1,0 +1,5 @@
+//Notes 
+we run out of time the result file is contain only the U mtrix 
+but the algorithm work 100% ,so of you run the project until the end 
+the file of result will have all the matrix we need , but its took many time
+amount 5 - 6 hour. 
